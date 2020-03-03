@@ -96,7 +96,7 @@ Audio modus ID: 0x%08lx
 ; Audio mode ID: 0x%08lx
 ;
 msgReqInfoResolution
-OpplÃ¸sning: %ld biter %s
+Oppløsning: %ld biter %s
 ; Resolution: %ld bit %s
 ;
 msgReqInfoMono
