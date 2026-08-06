@@ -1,0 +1,108 @@
+## version $VER: ahi.catalog 4.0 (06.08.2026)
+## language euskara
+## codeset 0
+;
+msgDefault
+Lehenetsita
+; Default
+;
+msgMenuControl
+\000\000Kontrola
+; \000\000Control
+;
+msgMenuLastMode
+L\000Aurreko modua
+; L\000Last Mode
+;
+msgMenuNextMode
+N\000Hurrengo modua
+; N\000Next Mode
+;
+msgMenuPropertyList
+?\000Propietateen zerrenda...
+; ?\000Property List...
+;
+msgMenuRestore
+R\000Berrezarri
+; R\000Restore
+;
+msgMenuOK
+O\000Ados
+; O\000OK
+;
+msgMenuCancel
+C\000Deuseztu
+; C\000Cancel
+;
+msgUnknown
+EZEZAGUNA:Audio ID 0x%08lx
+; UNKNOWN:Audio ID 0x%08lx
+;
+msgReqOK
+Ados
+; OK
+;
+msgReqCancel
+Deuseztu
+; Cancel
+;
+msgReqFrequency
+Frekuentzia
+; Frequency
+;
+msgDefaultMode
+Audio modu lehenetsia
+; Default audio mode
+;
+msgReqInfoTitle
+Moduaren ezaugarriak
+; Mode Properties
+;
+msgReqInfoAudioID
+Audio moduaren IDa: 0x%08lx
+; Audio mode ID: 0x%08lx
+;
+msgReqInfoResolution
+Bereizmena: %ld bit %s
+; Resolution: %ld bit %s
+;
+msgReqInfoMono
+mono
+; mono
+;
+msgReqInfoStereo
+estereo
+; stereo
+;
+msgReqInfoStereoPan
+estereo panoramikarekin
+; stereo with panning
+;
+msgReqInfoChannels
+Kanalak: %ld
+; Channels: %ld
+;
+msgReqInfoMixrate
+Nahasketa-maiztasunak: %ld-%ld Hz
+; Mixing rates: %ld-%ld Hz
+;
+msgReqInfoHiFi
+HiFi nahasketa
+; HiFi mixing
+;
+msgReqInfoRecordHalf
+Duplex erdian grabatu
+; Record in half duplex
+;
+msgReqInfoRecordFull
+Duplex osoan grabatu
+; Record in full duplex
+;
+msgReqInfoMultiChannel
+7.1 kanal anitzekoa
+; 7.1 multichannel
+;
+msgFreqFmt
+%lu Hz
+; %lu Hz
+;
