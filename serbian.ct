@@ -1,8 +1,8 @@
-## version $VER: ahiprefs.catalog 4.2 (24.05.1997)
+## version $VER: ahiprefs.catalog 4.2 (06.08.2026)
 ## language srpski
 ## codeset 8
 ;
-## chunk AUTH Translated by Ljubomir Jankoviá <lurch@afrodita.rcub.bg.ac.yu>
+## chunk AUTH Translated by Ljubomir Jankovi† <lurch@afrodita.rcub.bg.ac.yu>
 ;#language english
 ;#version 4
 ;
@@ -132,10 +132,10 @@ Snimanje u punom dupleksu
 ; Record in full duplex
 ;
 msgReqInfoMultiChannel
-
+7.1 viçekanalno
 ; 7.1 multichannel
 ;
 msgFreqFmt
-
+%lu Hz
 ; %lu Hz
 ;

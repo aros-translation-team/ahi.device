@@ -1,4 +1,4 @@
-## version $VER: ahi.catalog 4.2 (26.05.2006)
+## version $VER: ahi.catalog 4.2 (06.08.2026)
 ## language português
 ## codeset 0
 ;
@@ -92,7 +92,7 @@ Propriedades do Modo
 ; Mode Properties
 ;
 msgReqInfoAudioID
-ID do Modo audio
+ID do Modo áudio: 0x%08lx
 ; Audio mode ID: 0x%08lx
 ;
 msgReqInfoResolution
@@ -132,10 +132,10 @@ Gravar em 'full duplex'
 ; Record in full duplex
 ;
 msgReqInfoMultiChannel
-
+Multicanal 7.1
 ; 7.1 multichannel
 ;
 msgFreqFmt
-
+%lu Hz
 ; %lu Hz
 ;

@@ -1,4 +1,4 @@
-## version $VER: ahi.catalog 4.2 (06.10.1997)
+## version $VER: ahi.catalog 4.2 (06.08.2026)
 ## language hrvatski
 ## codeset 5
 ;
@@ -132,10 +132,10 @@ Full Duplex snimanje
 ; Record in full duplex
 ;
 msgReqInfoMultiChannel
-
+7.1 vi¹ekanalno
 ; 7.1 multichannel
 ;
 msgFreqFmt
-
+%lu Hz
 ; %lu Hz
 ;

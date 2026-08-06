@@ -1,4 +1,4 @@
-## version $VER: ahi.catalog 4.2 (05.05.1997) por Samuel Aguilera <slyguy92@arrakis.es>
+## version $VER: ahi.catalog 4.2 (06.08.2026)
 ## language español
 ## codeset 0
 ;
@@ -132,10 +132,10 @@ Grabar en dúplex completo
 ; Record in full duplex
 ;
 msgReqInfoMultiChannel
-
+7.1 multicanal
 ; 7.1 multichannel
 ;
 msgFreqFmt
-
+%lu Hz
 ; %lu Hz
 ;

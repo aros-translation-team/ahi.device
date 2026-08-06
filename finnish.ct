@@ -1,4 +1,4 @@
-## version $VER: ahi.catalog 4.2 (29.05.1997)
+## version $VER: ahi.catalog 4.2 (06.08.2026)
 ## language suomi
 ## codeset 0
 ;
@@ -63,7 +63,7 @@ P\000Peru
 ; Mode name in requester whose driver cannot be opened
 ;
 msgUnknown
-Tuntematon ‰‰nitila: 0x%8lx
+TUNTEMATON:Audio ID 0x%08lx
 ; UNKNOWN:Audio ID 0x%08lx
 ;
 ; The requester gadgets
@@ -133,10 +133,10 @@ msgReqInfoRecordFull
 ; Record in full duplex
 ;
 msgReqInfoMultiChannel
-
+7.1-monikanava
 ; 7.1 multichannel
 ;
 msgFreqFmt
-
+%lu Hz
 ; %lu Hz
 ;
