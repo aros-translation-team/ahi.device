@@ -32,11 +32,11 @@ Habitual
 ;
 ; The requesters menu
 msgMenuControl
-;\000\000Controlo
+\000\000Controlo
 ; \000\000Control
 ;
 msgMenuLastMode
-;U\000Último Modo
+U\000Último Modo
 ; L\000Last Mode
 ;
 msgMenuNextMode
